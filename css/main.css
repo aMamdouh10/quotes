@@ -1,0 +1,14 @@
+
+
+#demo{
+    padding: 20px 70px;
+    background-color: gray;
+    color: white;
+}
+
+#demo:hover{
+    background-color: rgb(230, 73, 73);
+}
+.quotes{
+    border: gray 2px solid;
+}
